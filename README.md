@@ -11,6 +11,7 @@
 <img width="1365" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c17a7fc-4ce2-4931-bc7b-bdce192ea98d" />
 
 (lưu ý: sản phẩm có thể điều chỉnh dữ liệu thông qua remote một cách đơn giản)
+
 *Chế độ cài đặt tổng thời gian làm việc:*
 - Tổng thời gian làm việc (dòng trên cùng): nhập bằng số trên remote, nhập theo số phút
   hình ảnh:
